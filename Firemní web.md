@@ -1,12 +1,12 @@
 # Web pro firmu ABCDEF STAV s.r.o.
 # Screenshoty - mobilní verze:
-![image](https://github.com/user-attachments/assets/a98af55e-ac41-40fc-82a3-0bbe1a35802f)
-![image](https://github.com/user-attachments/assets/83e44d27-8914-4088-a789-d0eee0bcf94b)
-![image](https://github.com/user-attachments/assets/9e6fc314-b804-42ee-a010-75a57fea5e4b)
-![image](https://github.com/user-attachments/assets/babc44be-cb9f-479f-8a80-52f7dc08e1ff)
-![image](https://github.com/user-attachments/assets/1d452a25-b60f-4ffa-b3a9-5bd87346d57e)
+![image](https://github.com/user-attachments/assets/6233aa14-a142-4659-a97a-1f13f839d01f)
+![image](https://github.com/user-attachments/assets/be0248f2-5927-48ac-98b1-6f971c3306d0)
+![image](https://github.com/user-attachments/assets/cf1da56c-6c7d-4b19-8b59-b33e9cdc9884)
+![image](https://github.com/user-attachments/assets/8ea3ced0-2140-4ecd-b296-6dcb05b72795)
+![image](https://github.com/user-attachments/assets/c7c34810-32bc-4936-910a-7cf806a74766)
 # Screenshoty - desktop verze:
-![image](https://github.com/user-attachments/assets/56459099-6b38-4e70-97a1-14738b447109)
-![image](https://github.com/user-attachments/assets/fb2e20ed-b2ea-478e-88c6-447023b00913)
-![image](https://github.com/user-attachments/assets/6f8835c0-a41b-4703-8051-be3cbe23f8f0)
-![image](https://github.com/user-attachments/assets/f974d057-830e-46e1-b446-60cfdd0bbfa0)
+![image](https://github.com/user-attachments/assets/49058f15-c8e6-4e7d-aecc-107863ab1416)
+![image](https://github.com/user-attachments/assets/e997e5b5-9a99-46e9-bf37-b8641a774103)
+![image](https://github.com/user-attachments/assets/b57029fe-a231-47cb-99aa-760e7fb271ce)
+![image](https://github.com/user-attachments/assets/cd7e001e-8a19-4ed3-b92e-fba131a1edfb)
