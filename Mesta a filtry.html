@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ukázka filtrování dat</title>
+  <link rel="stylesheet" href="/HTML/~/css/style6.css">
+</head>
+<body>
+  <header>
+    <h1>Ukázka filtrování dat</h1>
+    <nav>
+      <a href="#tabulka">Tabulka</a>
+      <a href="#formular">Formulář</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="tabulka">
+      <h2>Tabulka</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Město<br><input type="text" id="filterTableInput" placeholder="Filtr měst..."></th>
+            <th>Počet obyvatel</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody">
+            <tr><td>1</td><td>Praha</td><td>1300000</td></tr>
+            <tr><td>2</td><td>Brno</td><td>380000</td></tr>
+            <tr><td>3</td><td>Ostrava</td><td>290000</td></tr>
+            <tr><td>4</td><td>Plzeň</td><td>175000</td></tr>
+            <tr><td>5</td><td>Liberec</td><td>105000</td></tr>
+            <tr><td>6</td><td>Olomouc</td><td>100000</td></tr>
+            <tr><td>7</td><td>Ústí nad Labem</td><td>93000</td></tr>
+            <tr><td>8</td><td>Varnsdorf</td><td>14500</td></tr>
+            <tr><td>9</td><td>Hrádek nad Nisou</td><td>8000</td></tr>
+            <tr><td>10</td><td>Žalany</td><td>500</td></tr>
+          </tbody>          
+          
+      </table>
+    </section>
+
+    <section id="formular">
+      <h2>Formulář</h2>
+      <form id="cityForm">
+        <input type="text" id="filterSelectInput" placeholder="Filtr měst...">
+        <select id="citySelect">
+            <option>Praha</option>
+            <option>Brno</option>
+            <option>Ostrava</option>
+            <option>Plzeň</option>
+            <option>Liberec</option>
+            <option>Olomouc</option>
+            <option>Ústí nad Labem</option>
+            <option>Varnsdorf</option>
+            <option>Hrádek nad Nisou</option>
+            <option>Žalany</option>
+          </select>
+        <button type="submit">Odeslat</button>
+      </form>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
